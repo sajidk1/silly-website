@@ -2,6 +2,8 @@
 
 A basic web site (HTML, CSS, JavaScript) used to mock teammates
 
+Hosted here: <https://sajid-khan-js.github.io/silly-website/>
+
 ## References
 
 - <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
