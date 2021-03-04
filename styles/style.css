@@ -1,0 +1,64 @@
+html {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+  padding: 20px 20px 20px 20px;
+  cursor: url("../images/corp_cursor.png"), auto;
+}
+body {
+  width: auto;
+  margin: 5 auto;
+  padding: 10px 10px 50px 10px;
+  border: 5px solid black;
+}
+
+img {
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+}
+
+.container {
+  position: relative;
+}
+
+.topright {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 18px;
+}
+
+input {
+  height: 20px;
+}
+
+button {
+  font-size: 18px;
+}
+
+#logout {
+  visibility: hidden;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  padding: 20px 0;
+}
+h2 {
+  font-size: 30px;
+  padding: 10px 5px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  font-size: 20px;
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+}
