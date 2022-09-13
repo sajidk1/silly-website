@@ -2,7 +2,7 @@
 
 A basic web site (HTML, CSS, JavaScript) used to mock teammates
 
-Hosted here: <https://sajid-khan-js.github.io/silly-website/>
+Hosted here: <https://sajidk1.github.io/silly-website/>
 
 ## References
 
